@@ -2,8 +2,7 @@
 title: "NYC DOE Data Science Task"
 subtitle: Cory Weinfeld
 output:
-  pdf_document: default
-  html_notebook: default
+  rmarkdown::github_document
 ---
 
 ```{r}
